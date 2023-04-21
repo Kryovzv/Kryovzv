@@ -23,5 +23,3 @@ Langauges:
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
-      https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg
-     
