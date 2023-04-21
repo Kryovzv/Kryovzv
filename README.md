@@ -1,4 +1,4 @@
-### Hello there 👋 my name is kryo
+### Hello there 👋 My name is Kryo
 
 <!--
 **Kryovzv/Kryovzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
