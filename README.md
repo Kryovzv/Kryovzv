@@ -23,7 +23,6 @@ Langauges:
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
-      
       <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,js" />
