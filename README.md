@@ -27,3 +27,7 @@ Langauges:
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="cs" />
       <br>cs
+      </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>js
