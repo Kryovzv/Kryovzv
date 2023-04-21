@@ -23,3 +23,4 @@ Langauges:
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
+[![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
