@@ -36,7 +36,7 @@ Langauges:
 </table>
       
 # 🎫 Coding Services SEND PM 🎫
-- (˃ᆺ˂)#6883
+- Kryo#4862
 - t.me/Kryovzv
 
 
