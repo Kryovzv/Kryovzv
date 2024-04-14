@@ -1,5 +1,5 @@
 ### Hello there 👋 My name is Kryo
-[![telegram](https://img.shields.io/badge/Zex-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zex_xVaz)&nbsp;&nbsp;&nbsp;
+[![telegram](https://img.shields.io/badge/Zex-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vazkrx)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
 
 Welcome to my github profile 📫. I'm Kryo and I'm a programmer Learning and improving day by
@@ -37,7 +37,7 @@ Langauges:
       
 # 🎫 Coding Services SEND PM 🎫
 - a_a.l
-- t.me/Zex_xVaz
+- t.me/vazkrx
 
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
